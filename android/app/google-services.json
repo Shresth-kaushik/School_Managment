@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "887460244708",
+    "project_id": "flutterauth-a6ba7",
+    "storage_bucket": "flutterauth-a6ba7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:887460244708:android:bc4bf180dd0917562e50f1",
+        "android_client_info": {
+          "package_name": "com.example.school_management_system"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "887460244708-eje6oiqk90v4bqg0gnfr80umgb5c6b9t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3TFL2IBmCFGJWjeX9nVGPbs8JideRhPQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "887460244708-eje6oiqk90v4bqg0gnfr80umgb5c6b9t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
